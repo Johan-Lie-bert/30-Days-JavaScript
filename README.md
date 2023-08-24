@@ -1,2 +1,2 @@
 # 30-Days-JavaScript
-# 30 days challenge to learn javascript of our own
+### 30 days challenge to learn javascript of our own
